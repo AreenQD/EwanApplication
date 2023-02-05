@@ -7,8 +7,28 @@ A project for IT342 - mobile and cloud computing course, presented to Mrs.Renad 
 * Sara Abdulrahman Alghofaily
 * Wajd Saleh Aljaber
 
-## Program idea
+## program idea
 
 EWAN is a new innovative app that enables users to collect, store, share, and lend their personal belongings. With EWAN, users can easily manage their belongings and make the most of their unused items by lending them to others. The app offers insurance coverage for each item, providing users with peace of mind and ensuring the safety of their belongings.
+
+## objectives
+
+- To provide a convenient and accessible platform for users to collect, store, and share their personal belongings.
+- To offer insurance coverage for each item, ensuring the safety and security of users' belongings.
+- To reduce clutter and waste by enabling users to make the most of their unused items.
+- To provide an opportunity for users to earn money by lending out their belongings to others.
+
+## methodology
+
+EWAN has been developed using Android Studio, incorporating user-centered design principles to create a user-friendly interface. The app will use advanced technology to manage user accounts, track items, and provide insurance coverage. In collecting data for this application, we relied on previous applications that support interaction with the user.
+
+## scope
+
+The scope of EWAN includes the development of the app using Android Studio, the creation of user accounts, the management of users' belongings, and the provision of insurance coverage for each item. The app will be available for download on Android devices and will be accessible to users worldwide.
+
+## Design & Implementation
+https://drive.google.com/file/d/1bq-Yr83FN8jF1sIXQmttP48DLrqPsrGG/view
+
+
 
 
