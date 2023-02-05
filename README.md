@@ -32,6 +32,9 @@ EWAN has been developed using Android Studio, incorporating user-centered design
 
 The scope of EWAN includes the development of the app using Android Studio, the creation of user accounts, the management of users' belongings, and the provision of insurance coverage for each item. The app will be available for download on Android devices and will be accessible to users worldwide.
 
+## Design and Implementation
+
+[Click here to install the project.](https://drive.google.com/file/d/1bq-Yr83FN8jF1sIXQmttP48DLrqPsrGG/view)
 ## Application
 https://user-images.githubusercontent.com/95087254/216795039-fc00642e-e92d-4e6f-b148-573eef9653dd.mp4
 
