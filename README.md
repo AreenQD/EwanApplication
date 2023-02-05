@@ -9,6 +9,6 @@ A project for IT342 - mobile and cloud computing course, presented to Mrs.Renad 
 
 ## program idea
 
-
+EWAN is a new innovative app that enables users to collect, store, share, and lend their personal belongings. With EWAN, users can easily manage their belongings and make the most of their unused items by lending them to others. The app offers insurance coverage for each item, providing users with peace of mind and ensuring the safety of their belongings.
 
 
